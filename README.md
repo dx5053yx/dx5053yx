@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧑‍🎓 studied at General Soedirman University (unsoed)<br>🌏 live in Bekasi<br>
+SMA 1 Tambelang 2021-2025<br>studied at General Soedirman University (unsoed) 2025-2030<br> live in Bekasi<br>
 
 
 ## 🌐 Socials:
