@@ -14,7 +14,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Computer+Science+Student+%40+Unsoed;Game+Developer+%7C+Web+Dev;Cinema+%26+Arts+Enthusiast;Learning+%2C+building+%2C+exploring..." alt="Typing SVG" />
 
-[![Visits](https://visitcount.itsvg.in/api?id=dx5053yx&icon=6&color=1)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=dx5053yx&color=58a6ff&style=flat-square&label=Profile+Views)
 
 </div>
 
@@ -87,10 +87,10 @@ Halo! Saya **Aqil** — mahasiswa Informatika di **Universitas Jenderal Soedirma
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dx5053yx&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dx5053yx&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="165"/>
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=dx5053yx&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" height="165"/>
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=dx5053yx&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="165"/>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=dx5053yx&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=dx5053yx&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -129,6 +129,6 @@ Halo! Saya **Aqil** — mahasiswa Informatika di **Universitas Jenderal Soedirma
                                  — akiru秋留
 ```
 
-![](https://visitcount.itsvg.in/api?id=dx5053yx&icon=6&color=1)
+![Profile Views](https://komarev.com/ghpvc/?username=dx5053yx&color=58a6ff&style=flat-square)
 
 </div>
