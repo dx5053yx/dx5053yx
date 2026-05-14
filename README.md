@@ -24,7 +24,7 @@
 
 Halo! Saya **Aqil** — mahasiswa Informatika di **Universitas Jenderal Soedirman (Unsoed)** yang gemar membangun hal-hal dari nol, baik itu game, aplikasi web, maupun event seni pertunjukan. Di balik layar, saya juga pernah memimpin komunitas sinema dan berorganisasi aktif di bidang sastra & budaya.
 
-- 🎓 Kuliah di **Unsoed** jurusan Ilmu Komputer (2025–2030)
+- 🎓 Kuliah di **Unsoed** jurusan Informatika (2025–2030)
 - 🎮 Senang bikin game di **Godot** & **Unity**
 - 🌐 Membangun web dengan **Python (Flask / Streamlit)**, **JavaScript**, dan **C#**
 - 🎬 Mantan Ketua Ekstrakurikuler **Teras Cinema** (2024)
