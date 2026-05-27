@@ -96,18 +96,6 @@ Halo! Saya **Aqil** — mahasiswa Informatika di **Universitas Jenderal Soedirma
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| [🎮 new-game](https://github.com/dx5053yx/new-game) | New challenge — game project | GDScript |
-| [🎮 trun-base-game](https://github.com/dx5053yx/trun-base-game) | Collab game project | GDScript |
-| [💰 kas-kos](https://github.com/dx5053yx/kas-kos) | Kos finance tracker app | Python |
-| [🌐 hokageh](https://github.com/dx5053yx/hokageh) | Web project | JavaScript |
-| [📁 satu-IT-beda-pelajaran](https://github.com/dx5053yx/satu-IT-beda-pelajaran) | Dokumentasi trio IT beda kampus ⭐ | JavaScript |
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
